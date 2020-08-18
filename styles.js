@@ -439,7 +439,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Documents\Autonise AI WorkShop\startproject\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\Desktop\startproject\src\styles.css */"./src/styles.css");
 
 
 /***/ })
